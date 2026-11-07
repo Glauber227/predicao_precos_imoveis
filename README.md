@@ -3,7 +3,7 @@
 ## Objetivo 
 desenvolver um modelo preditivo de Machine Learning para estimar o preço de imóveis com base em suas características estruturais e geográficas, comparando o desempenho de diferentes algoritmos (Regressão Linear, Random Forest e XGBoost) para identificar qual abordagem oferece a melhor generalização e precisão.
 
-## Tabela comparativa entre modelos
+Tabela comparativa entre modelos
 |Modelo|R²|MAE|MSE|
 |:---|:---:|:---:|---:|
 |Regressão Linear|0.70|121235.37|44620226310.29|
