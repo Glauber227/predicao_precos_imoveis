@@ -18,4 +18,12 @@ Desenvolver um modelo preditivo de Machine Learning para estimar o preço de im�
 ## Como Executar
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone [https://github.com/Glauber227/Projeto1.git](https://github.com/Glauber227/Projeto1.git)
+   git clone [https://github.com/Glauber227/Projeto1.git]  
+2. Intale as dependências:  
+   ```bash
+   pip install -r requirements.txt
+3. Execute o script ou abra o notebook para visualizar as análises e modelos.
+
+
+
+
