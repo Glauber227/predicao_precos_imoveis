@@ -11,6 +11,6 @@ desenvolver um modelo preditivo de Machine Learning para estimar o preço de im�
 |XGBoost|0.49|120528.70|76391849729.11|
 
 ## Tecnologias
-Linguagem: Python Jupyter.<br>
+Linguagem: Python.<br>
 Bibliotecas: Pandas, Scikit-Learn, XGBoost, Matplotlib/Seaborn.<br>
 Modelos: Regressão Linear, Random Forest, XGBoost.
