@@ -18,7 +18,7 @@ Desenvolver um modelo preditivo de Machine Learning para estimar o preço de im�
 ## Como Executar
 1. Clone este repositório em sua máquina:
    ```bash
-   git clone [https://github.com/Glauber227/Projeto1.git]  
+   git clone [https://github.com/Glauber227/predicao_precos_imoveis.git]  
 2. Intale as dependências:  
    ```bash
    pip install -r requirements.txt
